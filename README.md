@@ -1,2 +1,2 @@
-# lychee-workout-issues
-Public issue tracker repo for LycheeWorkout.
+# 荔枝举铁（暂定）Issue Tracking
+这里记录荔枝举铁的已知问题和计划中的feature。荔枝举铁还是一个非常早期的产品，欢迎将你想要的功能和发现的问题登记到issue中！
